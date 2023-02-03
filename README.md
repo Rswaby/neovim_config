@@ -46,3 +46,10 @@ Neovim keymaps refs
 <Leader>gb -- list git branches (use <cr> to checkout) ["gb" for git branch]
 <Leader>gs -- list current changes per file with diff preview ["gs" for git status]
 ```
+### Iterm2
+I guess if you are using iterm2 this will be useful. 
+```sh
+CMD+D - vertical shift 
+CMD+Shirt+D - horizontal
+CMD+OPT+(Arrow keys) 
+```
